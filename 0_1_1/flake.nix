@@ -11,6 +11,7 @@
   inputs.src-dslutils-0_1_1.ref   = "refs/tags/0.1.1";
   inputs.src-dslutils-0_1_1.owner = "codehz";
   inputs.src-dslutils-0_1_1.repo  = "dslutils";
+  inputs.src-dslutils-0_1_1.dir   = "";
   inputs.src-dslutils-0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
