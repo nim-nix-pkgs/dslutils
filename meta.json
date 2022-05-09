@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/codehz/dslutils",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/codehz/dslutils/': SSL connection timeout",
     ""
   ],
   "heads": []
